@@ -50,10 +50,10 @@ export default function Contact() {
                 {t.email}
               </h2>
               <a 
-                href="mailto:admin@browniehouse.com" 
+                href="mailto:info@browniehouse.com" 
                 className="sans-body text-xl text-stone-600 hover:text-amber-700 transition-colors"
               >
-                admin@browniehouse.com
+                info@browniehouse.com
               </a>
             </div>
             

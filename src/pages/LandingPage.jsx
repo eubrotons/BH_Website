@@ -506,8 +506,8 @@ export default function LandingPage() {
               <div className="serif-display text-2xl font-semibold text-stone-900 mb-2">
                 {t.contact.email}
               </div>
-              <a href="mailto:admin@browniehouse.com" className="sans-body text-stone-600 hover:text-amber-700 transition-colors">
-                admin@browniehouse.com
+              <a href="mailto:info@browniehouse.com" className="sans-body text-stone-600 hover:text-amber-700 transition-colors">
+                info@browniehouse.com
               </a>
             </div>
             
@@ -545,7 +545,7 @@ export default function LandingPage() {
             <div>
               <div className="sans-body font-semibold text-white mb-4">Contact</div>
               <div className="space-y-2 text-sm">
-                <div>admin@browniehouse.com</div>
+                <div>info@browniehouse.com</div>
                 <div>+34 932 010 193</div>
               </div>
             </div>
