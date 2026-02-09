@@ -1,8 +1,8 @@
 import React from 'react';
 import { useLanguage } from '../App';
 
-import deboraPhoto from '../src/assets/debora-photo.png';
-import mariaPhoto from '../src/assets/maria-photo.png';
+import deboraPhoto from '../assets/debora-photo.png';
+import mariaPhoto from '../assets/maria-photo.png';
 
 export default function About() {
   const { language } = useLanguage();
